@@ -30,12 +30,12 @@
 ## 🖥️ How to Run
 ### 1️⃣ Compile the program:
 ```bash
-gcc student_record.c -o student_record
+gcc main.c -o main
 ```
 
 ---
 ```bash
-./student_record
+./main
 ```
 
 ---
